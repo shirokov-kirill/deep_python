@@ -112,3 +112,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#PyCharm
+.idea/
+Scripts/
+Lib/
+share/
+Digraph.gv
+pyvenv.cfg
